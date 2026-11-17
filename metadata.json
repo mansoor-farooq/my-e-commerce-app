@@ -1,0 +1,6 @@
+{
+  "name": "FreshMart",
+  "description": "Fresh Organic Modern Commerce grocery shopping app with Shop, Cart, Checkout, and Account screens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
